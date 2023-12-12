@@ -1,0 +1,1 @@
+This is the repository with different useful settings files. Like Unity git instructions .gitattributes, .gitignore and so on.
